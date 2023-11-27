@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  He modificado esta Blog  
+title:  He modificado esta Blog  y he Eliminado el ultimo 
 date:   2023-11-27 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
